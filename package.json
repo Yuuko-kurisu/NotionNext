@@ -1,16 +1,16 @@
 {
-  "name": "notion-next",
-  "version": "4.7.3",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "name": "kurisu",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Yuuko-kurisu/NotionNext.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/Yuuko-kurisu/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "Kurisu",
+    "email": "hongweijiang@sjtu.edu.cn",
+    "url": "https://yuuko-kurisu.github.io/"
   },
   "scripts": {
     "dev": "next dev",
@@ -72,7 +72,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "url": "https://github.com/Yuuko-kurisu/NotionNext/issues",
+    "email": "hongweijiang@sjtu.edu.cn"
   }
 }
